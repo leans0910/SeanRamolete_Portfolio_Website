@@ -21,6 +21,10 @@
   p {
     color: rgb(85, 85, 85);
   }
+
+  h3 {
+    color: chocolate;
+  }
   
   /* TRANSITION */
   
@@ -274,6 +278,7 @@
     gap: 2rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
+
   }
   
   .about-details-container {
@@ -301,7 +306,7 @@
     flex: 1;
     background: white;
     border-radius: 2rem;
-    border: rgb(53, 53, 53) 0.1rem solid;
+    border: rgb(20, 20, 20) 0.1rem solid;
     border-color: rgb(163, 163, 163);
     text-align: center;
   }
